@@ -1,5 +1,4 @@
-<a name="top"></a>
-# 🏒 Air Hockey using OpenCV & Hand Detection
+# <a name="top"> 🏒 Air Hockey using OpenCV & Hand Detection</a>
 This is a fun Air Hockey game built with Python and OpenCV where two players can control paddles using hand movements detected via the webcam.
 
 ## ✨ Features
@@ -73,5 +72,6 @@ PADDLE_HEIGHT = 100      # Paddle height
   
 ## ⭐ Support the Project
 If you found this project useful or interesting, please give it a star on GitHub — it helps others discover it too!
+<br/>
 <br/>
 [⬆ Back to Top](#top)
